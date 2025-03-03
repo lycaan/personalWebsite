@@ -1,0 +1,9 @@
+.fishes {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.fishes img {
+	max-width: 100%;
+	height: auto;
+}
